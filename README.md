@@ -1,0 +1,2 @@
+# The-cryptomining
+my project
